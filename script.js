@@ -17,3 +17,5 @@ var newarr = array.map(function(val){
     return val*3;
 })
 console.log(newarr);
+
+// add other logics
